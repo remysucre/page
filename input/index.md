@@ -1,4 +1,4 @@
-Yisu Remy Wang 王奕粟
+Yisu Remy Wang
 =========
 
 I'm a graduate student at [UW PLSE](http://uwplse.org/). I want to create means
