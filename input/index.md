@@ -1,7 +1,7 @@
 Yisu Remy Wang
 =========
 
-I'm a graduate student at [UW PLSE](http://uwplse.org/). I create means
+I'm a PhD student at [UWPLSE](http://uwplse.org/). I create means
 to realize [thoughts](http://www.tractatuslogico-philosophicus.com/).
 
 In my lab, that means to experiment with languages used to program machines. I
