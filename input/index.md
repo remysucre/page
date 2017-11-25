@@ -1,9 +1,8 @@
 Yisu Remy Wang
 =========
 
-I'm a graduate student at [UW PLSE](http://uwplse.org/). I want to create means
-to express and
-realize [thoughts](http://www.tractatuslogico-philosophicus.com/).
+I'm a graduate student at [UW PLSE](http://uwplse.org/). I create means
+to realize [thoughts](http://www.tractatuslogico-philosophicus.com/).
 
 In my lab, that means to experiment with languages used to program machines. I
 believe programs can be weaved from threads
