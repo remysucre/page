@@ -1,19 +1,21 @@
 Yisu Remy Wang
 =========
 
-I'm a PhD student at [UW PLSE](http://uwplse.org/). I create means to
-realize [thoughts](http://dissonance.remywang.me).
+I'm a PhD student at [uw plse][1]. I create means to realize [thoughts][2].
 
-In my lab, that means to experiment with languages used to program machines. I
-believe programs can be woven
-from [threads](https://doi.org/10.1145/2976002.2976009), in addition to being
-sewn from fragments. Moreover, the act of programming itself can
-be [automated](http://metalift.uwplse.org), if we can
-say
-[what we want](http://privacytools.seas.harvard.edu/files/privacytools/files/remy-final-paper.pdf) [clearly](DPEC.pdf).
+In my lab, that means to [experiment][3] with languages used to program
+machines. I believe programs can be woven from [threads][4], in addition to
+being sewn from fragments. Moreover, the act of programming itself can be
+[automated][5], if we can say [what we want][6] [clearly][7].
 
-![wishtree][1]
-
-[1]: wishtree.jpg
+<img src="wishtree.jpg" alt="wishtree" style="max-width:100%;height:auto;">
 
 **updated 11/2017**
+
+[1]: http://uwplse.org
+[2]: http://dissonance.remywang.me
+[3]: conception-computation.pdf 
+[4]: https://doi.org/10.1145/2976002.2976009
+[5]: http://metalift.uwplse.org 
+[6]: http://privacytools.seas.harvard.edu/files/privacytools/files/remy-final-paper.pdf
+[7]: DPEC.pdf
