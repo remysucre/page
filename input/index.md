@@ -8,9 +8,12 @@ machines. I believe programs can be woven from [threads][4], in addition to
 being sewn from fragments. Moreover, the act of programming itself can be
 [automated][5], if we can say [what we want][6] [clearly][7].
 
+You can reach me via [email][8], or find me in 
+the plse lab ([cse][9] 407). 
+
 <img src="wishtree.jpg" alt="wishtree" style="max-width:100%;height:auto;">
 
-**updated 11/2017**
+**updated 12/2017**
 
 [1]: http://uwplse.org
 [2]: http://dissonance.remywang.me
@@ -19,3 +22,5 @@ being sewn from fragments. Moreover, the act of programming itself can be
 [5]: http://metalift.uwplse.org 
 [6]: http://privacytools.seas.harvard.edu/files/privacytools/files/remy-final-paper.pdf
 [7]: DPEC.pdf
+[8]: mailto:remywang@cs.washington.edu
+[9]: https://www.cs.washington.edu/contact
