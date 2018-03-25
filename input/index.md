@@ -5,7 +5,7 @@ I'm a PhD student at [uw plse][1]. I create means to realize [thoughts][2].
 
 In my lab, that means to [experiment][3] with languages used to program
 machines. I believe programs can be woven from [threads][4], in addition to
-being sewn from fragments. Moreover, the act of programming itself can be
+being sewn from [fragments][10]. Moreover, the act of programming itself can be
 [automated][5], if we can say [what we want][6] [clearly][7].
 
 You can reach me via [email][8], or find me in 
@@ -24,3 +24,4 @@ the plse lab ([cse][9] 407).
 [7]: DPEC.pdf
 [8]: mailto:remywang@cs.washington.edu
 [9]: https://www.cs.washington.edu/contact
+[10]: yoko.pdf
