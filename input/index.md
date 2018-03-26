@@ -1,6 +1,8 @@
 Yisu Remy Wang
 =========
 
+<img src="sea.jpg" alt="wishtree" style="max-width:100%;height:auto;">
+
 I'm a PhD student at [uw plse][1]. I create means to realize [thoughts][2].
 
 In my lab, that means to [experiment][3] with languages used to program
@@ -10,10 +12,6 @@ being sewn from [fragments][10]. Moreover, the act of programming itself can be
 
 You can reach me via [email][8], or find me in 
 the plse lab ([cse][9] 407). 
-
-<img src="wishtree.jpg" alt="wishtree" style="max-width:100%;height:auto;">
-
-**updated 12/2017**
 
 [1]: http://uwplse.org
 [2]: http://dissonance.remywang.me
