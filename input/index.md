@@ -3,7 +3,7 @@ Yisu Remy Wang
 
 <img src="sea.jpg" alt="wishtree" style="max-width:100%;height:auto;">
 
-I'm a PhD student at [uw plse][1]. I create means to realize [thoughts][2].
+I'm a PhD student at [uw plse][1] advised by [Alvin Cheung][11]. I create means to realize [thoughts][2].
 
 In my lab, that means to [experiment][3] with languages used to program
 machines. I believe programs can be woven from [threads][4], in addition to
@@ -23,3 +23,4 @@ the plse lab ([cse][9] 407).
 [8]: mailto:remywang@cs.washington.edu
 [9]: https://www.cs.washington.edu/contact
 [10]: yoko.pdf
+[11]: https://homes.cs.washington.edu/~akcheung/
