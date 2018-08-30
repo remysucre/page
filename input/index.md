@@ -10,6 +10,8 @@ machines. I believe programs can be woven from [threads][4], in addition to
 being sewn from [fragments][10]. Moreover, the act of programming itself can be
 [automated][5], if we can say [what we want][6] [clearly][7].
 
+Before coming to Seattle, I was extremely lucky to work with Professor [Kathleen Fisher][13] and [Diogenes Nunez][14] at Tufts. They [lead me into research][12] and convinced me to keep doing it. Even before that, Professor [Norman Ramsey][15] taught me almost everything I knew about programming using [How to Design Programs][16]. 
+
 You can reach me via [email][8], or find me in 
 the plse lab ([cse][9] 407). 
 
@@ -24,3 +26,8 @@ the plse lab ([cse][9] 407).
 [9]: https://www.cs.washington.edu/contact
 [10]: yoko.pdf
 [11]: https://homes.cs.washington.edu/~akcheung/
+[12]: http://conquer.cra.org/undergrad-research-highlights/proofs-privacy-and-programming
+[13]: https://www.cs.tufts.edu/~kfisher/Kathleen_Fisher/Home.html
+[14]: https://www.eecs.tufts.edu/~dan/
+[15]: https://www.cs.tufts.edu/~nr/
+[16]: https://htdp.org
