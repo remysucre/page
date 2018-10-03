@@ -3,7 +3,7 @@ Yisu Remy Wang
 
 <img src="sea.jpg" alt="wishtree" style="max-width:100%;height:auto;">
 
-I'm a PhD student at [uw plse][1] advised by [Alvin Cheung][11]. I create means to realize [thoughts][2].
+I'm a PhD student at [uw plse][1] advised by [Alvin Cheung][11]. I create means to realize thoughts.
 
 In my lab, that means to [experiment][3] with languages used to program
 machines. I believe programs can be woven from [threads][4], in addition to
@@ -14,6 +14,9 @@ Before coming to Seattle, I was extremely lucky to work with Professor [Kathleen
 
 You can reach me via [email][8], or find me in 
 the plse lab ([cse][9] 407). 
+
+<div style="text-align: right"> [*dissonance*][2] </div>
+
 
 [1]: http://uwplse.org
 [2]: http://dissonance.remywang.me
