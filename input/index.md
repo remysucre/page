@@ -12,6 +12,8 @@ being sewn from [fragments][10]. Moreover, the act of programming itself can be
 
 Before coming to Seattle, I was extremely lucky to work with Professor [Kathleen Fisher][13] and [Diogenes Nunez][14] at Tufts. They [lead me into research][12] and convinced me to keep doing it. Even before that, Professor [Norman Ramsey][15] taught me almost everything I knew about programming using [How to Design Programs][16]. 
 
+After I left the East Coast, my [counterpart][17] continues to conduct interdisciplinary studies in a great environment. 
+
 You can reach me via [email][8], or find me in 
 the plse lab ([cse][9] 407). 
 
@@ -34,3 +36,4 @@ the plse lab ([cse][9] 407).
 [14]: https://www.eecs.tufts.edu/~dan/
 [15]: https://www.cs.tufts.edu/~nr/
 [16]: https://htdp.org
+[17]: https://news.harvard.edu/gazette/story/2018/10/harvards-remy-is-more-than-a-humanities-cat/
