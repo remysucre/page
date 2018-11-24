@@ -3,15 +3,22 @@ Yisu Remy Wang
 
 <img src="sea.jpg" alt="wishtree" style="max-width:100%;height:auto;">
 
-I'm a PhD student at [uw plse][1] advised by [Alvin Cheung][11]. I create means to realize [thoughts][2].
+I'm a PhD student at [uw plse][1] advised by [Alvin Cheung][11]. I create means to realize thoughts.
 
 In my lab, that means to [experiment][3] with languages used to program
 machines. I believe programs can be woven from [threads][4], in addition to
 being sewn from [fragments][10]. Moreover, the act of programming itself can be
 [automated][5], if we can say [what we want][6] [clearly][7].
 
+Before coming to Seattle, I was extremely lucky to work with Professor [Kathleen Fisher][13] and [Diogenes Nunez][14] at Tufts. They [lead me into research][12] and convinced me to keep doing it. Even before that, Professor [Norman Ramsey][15] taught me almost everything I knew about programming using [How to Design Programs][16]. 
+
+After I left the East Coast, my [counterpart][17] continues to conduct interdisciplinary studies in a great environment. 
+
 You can reach me via [email][8], or find me in 
 the plse lab ([cse][9] 407). 
+
+<div style="text-align: right"> [*dissonance*][2] </div>
+
 
 [1]: http://uwplse.org
 [2]: http://dissonance.remywang.science
@@ -24,3 +31,9 @@ the plse lab ([cse][9] 407).
 [9]: https://www.cs.washington.edu/contact
 [10]: yoko.pdf
 [11]: https://homes.cs.washington.edu/~akcheung/
+[12]: http://conquer.cra.org/undergrad-research-highlights/proofs-privacy-and-programming
+[13]: https://www.cs.tufts.edu/~kfisher/Kathleen_Fisher/Home.html
+[14]: https://www.eecs.tufts.edu/~dan/
+[15]: https://www.cs.tufts.edu/~nr/
+[16]: https://htdp.org
+[17]: https://news.harvard.edu/gazette/story/2018/10/harvards-remy-is-more-than-a-humanities-cat/
