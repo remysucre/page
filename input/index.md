@@ -1,4 +1,4 @@
-Yisu Remy Wang
+Remy Wang
 =========
 
 <img src="sea.jpg" alt="wishtree" style="max-width:100%;height:auto;">
