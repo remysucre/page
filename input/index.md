@@ -3,7 +3,7 @@ Remy Wang
 
 <img src="sea.jpg" alt="wishtree" style="max-width:100%;height:auto;">
 
-I'm a PhD student at [uwdb][18] and [uwplse][q] advised by [Dan Suciu][19]. 
+I'm a PhD student at [uwdb][18] and [uwplse][1] advised by [Dan Suciu][19]. 
 I [optimize large scale machine learning code][20] by exploiting the connection 
 between linear algebra and relation algebra. 
 
