@@ -3,12 +3,9 @@ Remy Wang
 
 <img src="sea.jpg" alt="wishtree" style="max-width:100%;height:auto;">
 
-I'm a PhD student at [uw plse][1] advised by [Alvin Cheung][11]. I create means to realize thoughts.
-
-In my lab, that means to [experiment][3] with languages used to program
-machines. I believe programs can be woven from [threads][4], in addition to
-being sewn from [fragments][10]. Moreover, the act of programming itself can be
-[automated][5], if we can say [what we want][6] [clearly][7].
+I'm a PhD student at [uwdb][18] and [uwplse][q] advised by [Dan Suciu][19]. 
+I [optimize large scale machine learning code][20] by exploiting the connection 
+between linear algebra and relation algebra. 
 
 Before coming to Seattle, I was extremely lucky to work with Professor [Kathleen Fisher][13] and [Diogenes Nunez][14] at Tufts. They [lead me into research][12] and convinced me to keep doing it. Even before that, Professor [Norman Ramsey][15] taught me almost everything I knew about programming using [How to Design Programs][16]. 
 
@@ -37,3 +34,6 @@ the plse lab ([cse][9] 407).
 [15]: https://www.cs.tufts.edu/~nr/
 [16]: https://htdp.org
 [17]: https://news.harvard.edu/gazette/story/2018/10/harvards-remy-is-more-than-a-humanities-cat/
+[18]: http://db.cs.washington.edu
+[19]: https://homes.cs.washington.edu/~suciu/
+[20]: https://github.com/wormhole-optimization/warp
