@@ -12,7 +12,7 @@ Before coming to Seattle, I was extremely lucky to work with Professor [Kathleen
 After I left the East Coast, my [counterpart][17] continues to conduct interdisciplinary studies in a great environment. 
 
 You can reach me via [email][8], or find me in 
-the plse lab ([cse][9] 407). 
+the plse lab (Gates 253).
 
 <div style="text-align: right"> [*dissonance*][2] </div>
 
